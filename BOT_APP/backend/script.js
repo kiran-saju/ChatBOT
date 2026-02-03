@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const userInput = document.getElementById("user-input");
   const chatBody = document.getElementById("chat-body");
 
-  const API_BASE = "http://127.0.0.1:8000";
+  const API_BASE = "/chat";
 
   let predefinedOptions = [];
 
@@ -184,4 +184,5 @@ function addMessage(content, sender, isOption = false, optionType = "default") {
   userInput.addEventListener("keypress", (e) => {
     if (e.key === "Enter") sendMessage();
   });
+
 });
