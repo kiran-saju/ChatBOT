@@ -1,0 +1,132 @@
+{
+  "program_overview": [
+    {
+      "question": "What is the Master in Engineering Management program?",
+      "answer": "The Master in Engineering Management (MEM) is a 90 ECTS credits program at EQF Level 7 (Master's Level) offered 100% online and self-paced. It's awarded by Guglielmo Marconi University (GMU), Italy with additional certifications from Cambridge International Qualifications (UK) and optional certification from Chartered Management Institute (UK).",
+      "keywords": ["MEM", "engineering management", "master program", "GMU", "online master"],
+      "confidence": 0.95
+    },
+    {
+      "question": "Which university awards the MEM degree?",
+      "answer": "The MEM program is awarded by Guglielmo Marconi University (GMU), Italy - an accredited Bologna Process member university.",
+      "keywords": ["awarding university", "GMU", "Guglielmo Marconi", "Italy", "MEM"],
+      "confidence": 0.95
+    },
+    {
+      "question": "What additional certifications come with the MEM program?",
+      "answer": "The MEM program includes: Postgraduate Diploma in Engineering Management from Cambridge International Qualifications (UK), and optional Certified Engineering Management Professional from Chartered Management Institute (UK).",
+      "keywords": ["certifications", "CIQ", "CMI", "additional certificates", "MEM"],
+      "confidence": 0.95
+    },
+    {
+      "question": "How many credits is the MEM program?",
+      "answer": "The MEM program consists of 90 ECTS credits at EQF Level 7 (Master's Level).",
+      "keywords": ["credits", "ECTS", "duration", "MEM"],
+      "confidence": 0.95
+    }
+  ],
+  "key_features": [
+    {
+      "question": "What are the key features of the MEM program?",
+      "answer": "Key features include: 1) Flexible online self-paced learning, 2) Personal tutor support, 3) Affordable payment options (pay-per-module or installments), 4) Global accreditation and recognition, 5) Industry-relevant practical skills with hands-on sessions in Primavera & Tableau.",
+      "keywords": ["features", "benefits", "flexible learning", "tutor support", "MEM"],
+      "confidence": 0.95
+    },
+    {
+      "question": "Is the MEM program flexible?",
+      "answer": "Yes, the MEM program is 100% online and self-paced with both Fastrack and Flexible duration options to suit your schedule.",
+      "keywords": ["flexible", "self-paced", "online", "study schedule", "MEM"],
+      "confidence": 0.95
+    }
+  ],
+  "career_outcomes": [
+    {
+      "question": "What career outcomes can I expect from MEM?",
+      "answer": "MEM graduates can pursue roles such as Engineering Manager, Project Manager, Operations Manager, Safety & Sustainability Lead, or Consultant across industries like Manufacturing, Infrastructure, Energy, Construction, IT, and Consulting.",
+      "keywords": ["career", "jobs", "roles", "employment", "industries", "MEM"],
+      "confidence": 0.95
+    }
+  ],
+  "curriculum": [
+    {
+      "question": "What modules are included in the MEM program?",
+      "answer": "The 90 ECTS MEM program includes: Engineering Management for Business Leaders (10 ECTS), Strategic Project Management & Implementation (10 ECTS), Environment, Health & Safety Management (10 ECTS), Mid Term Project (10 ECTS), General Management (10 ECTS), Sustainability and Business (10 ECTS), Principles of Energy Management (10 ECTS), Environmental Impact Assessment (10 ECTS), Research Methods (8 ECTS), and Capstone Project (12 ECTS).",
+      "keywords": ["modules", "courses", "curriculum", "subjects", "ECTS", "MEM"],
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the elective options in MEM?",
+      "answer": "MEM elective options include: Principles of Energy Management and Environmental Impact Assessment.",
+      "keywords": ["electives", "optional courses", "specializations", "MEM"],
+      "confidence": 0.95
+    }
+  ],
+  "eligibility": [
+    {
+      "question": "What are the eligibility requirements for MEM?",
+      "answer": "Academic Route: Bachelor's degree in any discipline. Mature Entry Route: 5+ years managerial experience with diplomas/certifications. English Proficiency: IELTS 5.5 or equivalent, English-taught degree, or work experience in English-speaking environment.",
+      "keywords": ["eligibility", "requirements", "admission", "entry criteria", "MEM"],
+      "confidence": 0.95
+    },
+    {
+      "question": "Can I apply for MEM without a bachelor's degree?",
+      "answer": "Yes, through the Mature Entry Route if you have 5+ years of managerial experience along with relevant diplomas or certifications.",
+      "keywords": ["mature entry", "without degree", "experience based", "MEM"],
+      "confidence": 0.95
+    }
+  ],
+  "fees": [
+    {
+      "question": "What is the fee structure for MEM?",
+      "answer": "Fastrack Plan: $5600 total ($5900 with optional CMI certification). Flexible Plan: $6300 total ($6600 with optional CMI certification). Includes registration, course fees, and certifications.",
+      "keywords": ["fees", "cost", "tuition", "payment", "price", "MEM"],
+      "confidence": 0.95
+    },
+    {
+      "question": "Are there payment plans available for MEM?",
+      "answer": "Yes, MEM offers both pay-per-module and monthly installment options to make the program affordable.",
+      "keywords": ["payment plans", "installments", "affordable", "financing", "MEM"],
+      "confidence": 0.95
+    }
+  ],
+  "learning_resources": [
+    {
+      "question": "What learning resources are provided in MEM?",
+      "answer": "MEM resources include: faculty-led video lessons, journals/case studies/text resources, expert webinars, unlimited online library access, and personalized tutor support.",
+      "keywords": ["resources", "materials", "support", "library", "videos", "MEM"],
+      "confidence": 0.95
+    }
+  ],
+  "assessment": [
+    {
+      "question": "How is the MEM program assessed?",
+      "answer": "MEM assessment includes: continuous unit-wise evaluations, end-of-module application-focused assessments, and a 12,000-word Capstone Project or business project alternative.",
+      "keywords": ["assessment", "exams", "evaluation", "capstone", "projects", "MEM"],
+      "confidence": 0.95
+    }
+  ],
+  "partners": [
+    {
+      "question": "Which institutions partner for the MEM program?",
+      "answer": "MEM partner institutions: Guglielmo Marconi University (Italy) - Accredited Bologna Process member, Cambridge International Qualifications (UK) - SCQF credit-rated programs, Chartered Management Institute (UK) - Chartered body for leadership excellence.",
+      "keywords": ["partners", "universities", "institutions", "GMU", "CIQ", "CMI", "MEM"],
+      "confidence": 0.95
+    }
+  ],
+  "contact": [
+    {
+      "question": "How can I contact admissions for MEM?",
+      "answer": "Website: uniathena.com | Email: admissions@uniathena.com | UK: +44 1865 784299 | Middle East: +971 65 31 2511 | India: +91 9145665544",
+      "keywords": ["contact", "admissions", "phone", "email", "office", "MEM"],
+      "confidence": 0.95
+    }
+  ],
+ "Quick_application": [
+    {
+      "question": "How to Register for MEM?",
+      "answer": "You can register for the MEM program through our quick application portal: https://learn.uniathena.com/quick-application/user-details?cid=1201",
+      "keywords": ["register", "application", "apply", "MEM"],
+      "confidence": 0.95
+    }
+  ]
+}
