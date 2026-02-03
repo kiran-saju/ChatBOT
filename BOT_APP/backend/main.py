@@ -9,6 +9,27 @@ from pydantic import BaseModel
 from typing import Optional, List, Dict, Any
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
+# Add this AFTER creating your FastAPI app
+# Example: after `app = FastAPI()`
+
+# Serve static files (CSS, JS will be available at /static/)
+app.mount("/static", StaticFiles(directory="."), name="static")
+
+# Serve index.html at the root URL
+@app.get("/")
+async def serve_frontend():
+    return FileResponse("index.html")
+
+# Optional: Also serve other frontend routes for SPA
+@app.get("/{path:path}")
+async def catch_all(path: str):
+    # If it's a file that exists (like favicon.ico), serve it
+    if os.path.exists(path) and os.path.isfile(path):
+        return FileResponse(path)
+    # Otherwise, serve index.html (for React/Vue/Angular routing)
+    return FileResponse("index.html")
 
 # ---------- Database Configuration ----------
 SQLITE_DB_PATH = "chatbot_fallback.db"
@@ -564,4 +585,5 @@ async def startup_event():
 # ---------- Main Execution ----------
 if __name__ == "__main__":
     import uvicorn
+
     uvicorn.run(app, host="0.0.0.0", port=8000, log_level="info")
